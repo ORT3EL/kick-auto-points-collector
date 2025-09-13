@@ -1,5 +1,5 @@
 {
-  "channels": ["rybsonlol", "xmerghani", "banduracartel", "neexcsgo", "remsua", "grendy"],
+  "channels": ["xmerghani", "banduracartel", "neexcsgo",],
   "wait_times": {
     "livestream_active": {
       "min": 120,
@@ -8,7 +8,7 @@
     "livestream_inactive": 300,
     "error_wait": 180
   },
-  "authorization": "Bearer TWÓJ_TOKEN",
+  "authorization": "Bearer 93354884|p1EhICLH2YfYjSFNecZgdjBXEiTQyv2uAxtWq4Wb",
   "messages": [
     "[emote:1730752:emojiAngel]",
     "[emote:1730753:emojiAngry]",
@@ -80,3 +80,4 @@
     "[emote:1730840:emojiYum]"
   ]
 }
+
